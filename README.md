@@ -1,0 +1,1 @@
+Utilized Microsoft stock market data to develop an LSTM model for stock price prediction. Employed data preprocessing, model training, and evaluation techniques to forecast future prices accurately. Demonstrated proficiency in time series forecasting and machine learning application in financial markets.
